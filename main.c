@@ -11,6 +11,9 @@ int main(){
 	sub3();
 	return 0;
 }
+void sub1(){
+printf("hello oss\n");
+}
 
 void sub3(){
 	int i=0;
@@ -26,3 +29,4 @@ void sub2(){
 
 printf("Hello World");
 }
+
