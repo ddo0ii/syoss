@@ -21,3 +21,8 @@ void sub3(){
 		}
 	}
 }
+
+void sub2(){
+
+printf("Hello World");
+}
